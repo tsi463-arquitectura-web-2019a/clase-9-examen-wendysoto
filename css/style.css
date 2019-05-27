@@ -1,0 +1,50 @@
+.col2{
+	background-color: #2d2f39;
+	color: #ffffff;
+	padding-left: 80px;
+}
+.nav-link{
+	color: white
+	font-weight:bold;
+}
+.card{
+	border: none;
+	background-color:#f1f1f1;
+}
+.nav-fondo{
+	background-color:#f1f1f1;
+	color: #666d89;
+}
+
+.nav-portfolio{
+	background-color: #2d2f39;
+	color: #666d89;
+}
+
+.padding{
+	    padding: 60px;
+}
+
+.nav-contact{
+	background-color: #ef6b63;
+	color: #f0d8d9;
+}
+.form-control{
+	background-color: #d5554f;
+	border: 1px solid #d5554f;
+	color: #e87675;
+}
+
+.nav-about{
+	background-color: #f1f1f1;
+	color: #666d89;
+}
+
+.Copyright{
+	border: 30px solid #2d2f39 ;
+	padding: 1px;
+	background-color:#2d2f39; 
+}
+.rows-spacing{
+	margin: 10px;
+}
